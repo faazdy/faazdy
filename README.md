@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, soy Leonardo Rengifo</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Front-End Developer en formación</h3>
 
-- 🎓 Estudiante de 8° semestre en la **Corporación Universitaria Minuto de Dios**
-- 💻 Me gusta el **desarrollo web** en general y la creación de interfaces funcionales y atractivas
-- 🚀 Tecnologías que manejo:
+-  Estudiante de 8° semestre en la **Corporación Universitaria Minuto de Dios**
+-  Me gusta el **desarrollo web** en general y la creación de interfaces funcionales y atractivas
+-  Tecnologías que manejo:
   - HTML5, CSS3, JavaScript, Sass
   - Frameworks: Bootstrap, conocimientos básicos en React
   - Bases de datos: SQL (MySQL y SQL Server)
-- 🛠️ Experiencia en maquetación web, componentización con React y mantenimiento de front-end
-- 📂 Portafolio web: [fazdev-front.netlify.app](https://fazdev-front.netlify.app/)
+-  Experiencia en maquetación web, componentización con React y mantenimiento de front-end
+-  Portafolio web: [fazdev-front.netlify.app](https://fazdev-front.netlify.app/)
 
 ---
 
