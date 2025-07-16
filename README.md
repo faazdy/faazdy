@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Leonardo Rengifo</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Front-End Developer en formación</h3>
 
-- 🎓 Estudiante de 6° semestre en la **Corporación Universitaria Minuto de Dios**
+- 🎓 Estudiante de 8° semestre en la **Corporación Universitaria Minuto de Dios**
 - 💻 Apasionado por el **desarrollo web** y la creación de interfaces funcionales y atractivas
 - 🚀 Tecnologías que manejo:
   - HTML5, CSS3, JavaScript, Sass
