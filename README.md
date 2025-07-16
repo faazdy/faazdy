@@ -30,6 +30,4 @@
 - Email: leorengifor.dev@gmail.com  
 - LinkedIn: *[(Leonardo Rengifo Ramos)](https://www.linkedin.com/in/leonardo-rengifo-ramos-694022210/)*
 
----
 
-⭐ Gracias por visitar mi perfil. ¡Siempre abierto a colaborar y aprender nuevas tecnologías!
