@@ -27,8 +27,8 @@
 ---
 
 ### 📫 ¿Cómo contactarme?
-- Email: leorengifo2003@outlook.com  
-- LinkedIn: *(añade tu URL de perfil si tienes uno)*
+- Email: leorengifor.dev@gmail.com  
+- LinkedIn: *[(añade tu URL de perfil si tienes uno)](https://www.linkedin.com/in/leonardo-rengifo-ramos-694022210/)*
 
 ---
 
