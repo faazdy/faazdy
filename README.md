@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Front-End Developer en formación</h3>
 
 - 🎓 Estudiante de 8° semestre en la **Corporación Universitaria Minuto de Dios**
-- 💻 Me gusta el **desarrollo web**en general y la creación de interfaces funcionales y atractivas
+- 💻 Me gusta el **desarrollo web** en general y la creación de interfaces funcionales y atractivas
 - 🚀 Tecnologías que manejo:
   - HTML5, CSS3, JavaScript, Sass
   - Frameworks: Bootstrap, conocimientos básicos en React
