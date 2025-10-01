@@ -8,7 +8,7 @@
   - Frameworks: Bootstrap, conocimientos básicos en React
   - Bases de datos: SQL (MySQL y SQL Server)
 - 🛠️ Experiencia en maquetación web, componentización con React y mantenimiento de front-end
-- 📂 Portafolio web: [fazdev-front.netlify.app](https://fazdev-front.netlify.app/)
+- 📂 Portafolio web: [leorengifodev.vercel.app](https://leorengifodev.vercel.app/)
 
 ---
 
