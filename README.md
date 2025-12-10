@@ -5,7 +5,7 @@
 - 💻 Me gusta el **desarrollo web** y la creación de interfaces funcionales y atractivas
 - 🚀 Tecnologías que manejo:
   - HTML5, CSS3, JavaScript, Sass
-  - Frameworks: Bootstrap, conocimientos básicos en React
+  - Frameworks: Bootstrap, React y aprendiendo Vue.
   - Bases de datos: SQL (MySQL y SQL Server)
 - 🛠️ Experiencia en maquetación web, componentización con React y mantenimiento de front-end
 - 📂 Portafolio web: [leorengifodev.vercel.app](https://leorengifodev.vercel.app/)
