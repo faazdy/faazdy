@@ -29,7 +29,6 @@ Actualmente terminando **Ingeniería de Sistemas**, enfocado en el ecosistema we
 ![Vue.js](https://img.shields.io/badge/vue.js-%23000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Infrastructure & Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
