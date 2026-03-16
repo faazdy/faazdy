@@ -45,7 +45,7 @@ Mi enfoque se centra en hacer interfaces atractivas, la **componentización** y 
 * **Front-end Maintenance:** Refactorización de código para mejorar la legibilidad y el SEO.
 * **Web Layouts:** Transformación de diseños complejos en sitios web totalmente responsivos.
 * **Full-stack Integration:** Conexión de interfaces modernas con bases de datos relacionales.
-* **Databases Design: ** Capaz de diseñar bases de datos relacionales escalables dependiendo de las necesidades del proyecto y/o negocio.
+* **Databases Design:** Capaz de diseñar bases de datos relacionales escalables dependiendo de las necesidades del proyecto y/o negocio.
 
 ---
 
