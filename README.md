@@ -2,11 +2,12 @@
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Front-End Developer en formación</h3>
 
 - 🎓 Estudiante de **Ingenieria de Sistemas**
-- 💻 Me gusta el **desarrollo web** y la creación de interfaces funcionales y atractivas
+- 💻 Me gusta el **desarrollo web** y la creación de interfaces atractivas y funcionales
 - 🚀 Tecnologías que manejo:
-  - HTML5, CSS3, JavaScript, Sass
-  - Frameworks: Bootstrap, React y aprendiendo Vue.
-  - Bases de datos: SQL (MySQL y SQL Server)
+  - HTML5, CSS3, JavaScript, Sass, Node.js.
+  - Frameworks/librerias: Bootstrap, React, Express y aprendiendo Vue.
+  - Bases de datos: PostgreSQL, MySQL.
+  - Herramientas: Docker, XAMPP, Vercel, Supabase.
 - 🛠️ Experiencia en maquetación web, componentización con React y mantenimiento de front-end
 - 📂 Portafolio web: [leorengifodev.vercel.app](https://leorengifodev.vercel.app/)
 
@@ -21,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
