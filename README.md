@@ -1,5 +1,5 @@
 # ✦ Leonardo Rengifo
-### Systems Engineering Student & Front-End Developer
+### Systems Engineering Student & Web Developer
 **Building digital experiences with precision and aesthetic focus.**
 
 [Visit Portfolio](https://leorengifodev.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/leonardo-rengifo-ramos-694022210/) • [Email Me](mailto:leorengifor.dev@gmail.com)
@@ -7,7 +7,7 @@
 ---
 
 ## 01. Profile
-Actualmente cursando **Ingeniería de Sistemas**, enfocado en el ecosistema **Front-End**. Mi objetivo es fusionar la arquitectura de sistemas con interfaces de usuario que no solo funcionen, sino que cautiven. Especialista en crear sitios rápidos, escalables y visualmente pulidos.
+Actualmente terminando **Ingeniería de Sistemas**, enfocado en el ecosistema web, en especial el **Front-End**. Mi objetivo es fusionar la arquitectura de sistemas con interfaces de usuario que no solo funcionen, sino que cautiven. Especialista en crear sitios rápidos, escalables y visualmente pulidos.
 
 * 📐 **Maquetación avanzada:** Estructuras limpias y semánticas.
 * 📦 **Component-driven:** Desarrollo modular con React y Vue.
@@ -16,7 +16,6 @@ Actualmente cursando **Ingeniería de Sistemas**, enfocado en el ecosistema **Fr
 ---
 
 ## 02. Tech Stack
-> *“The tools I use to bring ideas to life.”*
 
 ### Core Development
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,11 +40,12 @@ Actualmente cursando **Ingeniería de Sistemas**, enfocado en el ecosistema **Fr
 ---
 
 ## 03. Selected Projects & Experience
-Mi enfoque se centra en la **componentización** y el mantenimiento de interfaces robustas. He trabajado en:
+Mi enfoque se centra en hacer interfaces atractivas, la **componentización** y el mantenimiento de interfaces robustas. He trabajado en:
 
 * **Front-end Maintenance:** Refactorización de código para mejorar la legibilidad y el SEO.
 * **Web Layouts:** Transformación de diseños complejos en sitios web totalmente responsivos.
 * **Full-stack Integration:** Conexión de interfaces modernas con bases de datos relacionales.
+* **Databases Design: ** Capaz de diseñar bases de datos relacionales escalables dependiendo de las necesidades del proyecto y/o negocio.
 
 ---
 
