@@ -1,4 +1,4 @@
-# ✦ Leonardo Rengifo
+# Leonardo Rengifo
 ### Systems Engineering Student & Web Developer
 **Building digital experiences with precision and aesthetic focus.**
 
