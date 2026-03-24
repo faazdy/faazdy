@@ -75,7 +75,7 @@ Full-stack system for gym administration and client tracking.
 
 Generate custom QR codes instantly, no limits, no accounts, and completely free.
 
-* Vue + Vite
+* Vue + Vite + Sass
 * Focus on clean design and UX
 * Connect API
 
